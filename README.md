@@ -5,12 +5,13 @@ I'm Robel Tekeste Fekadu, a blend of Project Engineer and Data Scientist from St
 ![2](https://github.com/roxeliner/roxeliner/assets/125399589/4868a424-2059-44a9-bfcc-29f6f4e820b1)
 
 ### About Me
-👨‍💻 Embracing dual roles as a Project Engineer and Data Scientist in Stockholm, merging the structural with the statistical.
-🌱 Cultivating a realm where complex project orchestration meets the sharp analysis of data.
-💖 Committed to enhancing decision-making and efficiency through insightful data exploration.
-📝 Delving into data science applications within engineering, balancing the concrete and the abstract.
-🛠 Crafting solutions since my early professional days, applying a blend of engineering principles and data-driven insights.
+👨‍💻 Embracing dual roles as a Project Engineer and Data Scientist in Stockholm, merging the structural with the statistical.  
+🌱 Cultivating a realm where complex project orchestration meets the sharp analysis of data.  
+💖 Committed to enhancing decision-making and efficiency through insightful data exploration.  
+📝 Delving into data science applications within engineering, balancing the concrete and the abstract.  
+🛠 Crafting solutions since my early professional days, applying a blend of engineering principles and data-driven insights.  
 🏠 Settling in Stockholm, ready for collaborative innovation or a chat about the synergy of engineering and data.
+
 
 
 ### Technologies and Tools I Use:
