@@ -7,11 +7,9 @@ Hello, I'm Robel Tekeste Fekadu, a dynamic professional with dual expertise as a
 ### Technologies and Tools I Use:
 <img src="https://github.com/roxeliner/roxeliner/assets/125399589/20475485-9470-4c2f-b504-76e7ee8d1796" height="100" >
 <img src="https://github.com/roxeliner/roxeliner/assets/125399589/a3254483-2e72-427a-adb8-707f207f373f" height="100" >
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![image]()
-
+<img src="https://github.com/roxeliner/roxeliner/assets/125399589/a46fd659-32bb-402e-8b75-82aafc530dfb" height="100" >
+<img src="https://github.com/roxeliner/roxeliner/assets/125399589/8e81ba77-866e-4123-a44f-70ca2525813f" height="100" >
+<img src="https://github.com/roxeliner/roxeliner/assets/125399589/0225508d-ad78-492d-9cbf-8a5cd55851f0" height="100" >
 
 ### Experience Highlights
 - **Project Engineer / Junior Data Analyst at Gülermak Sweden**: Spearheaded the preparation and maintenance of project baseline programs, coordinated with subcontractors, and implemented automation scripts to streamline design document preparation.
