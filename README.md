@@ -25,6 +25,3 @@ I'm Robel Tekeste Fekadu, a blend of Project Engineer and Data Scientist from St
 <img src="https://github.com/roxeliner/roxeliner/assets/125399589/14fefe48-a008-423c-ac44-b4134fa53533" height="50" >
 
 
-### Contact Me
-- 📧 Gmail: Click [here](mailto:robeliner@gmail.com) to send me an email.
-- 🔗 LinkedIn: Connect with me on [LinkedIn](https://www.linkedin.com/in/robel-tekeste-fekadu-7b43b0140/).
