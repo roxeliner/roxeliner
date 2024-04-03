@@ -6,7 +6,8 @@ Hello, I'm Robel Tekeste Fekadu, a dynamic professional with dual expertise as a
 
 ### Technologies and Tools I Use:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-microsoft-azure-sql-database-microsoft-azure-sql-d-7226537%2F&psig=AOvVaw29vbscTleSZmylDcGakS02&ust=1712257199773000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOi-0qXdpoUDFQAAAAAdAAAAABAE)
+![image](https://github.com/roxeliner/roxeliner/assets/125399589/25c63001-e5f5-41c8-9f21-b7eb2f8e8859)
+
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
