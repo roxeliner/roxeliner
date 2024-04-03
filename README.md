@@ -28,5 +28,3 @@ I'm Robel Tekeste Fekadu, a blend of Project Engineer and Data Scientist from St
 ### Contact Me
 - 📧 Gmail: Click [here](mailto:robeliner@gmail.com) to send me an email.
 - 🔗 LinkedIn: Connect with me on [LinkedIn](https://www.linkedin.com/in/robel-tekeste-fekadu-7b43b0140/).
-
-I am always open to discussing new projects, collaboration opportunities, or just engaging in conversations about data science and engineering. Feel free to reach out!
