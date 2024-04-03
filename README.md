@@ -1,8 +1,17 @@
+Hi there! 👋
+
+I'm Robel Tekeste Fekadu, a blend of Project Engineer and Data Scientist from Stockholm. 
 
 ![2](https://github.com/roxeliner/roxeliner/assets/125399589/4868a424-2059-44a9-bfcc-29f6f4e820b1)
 
 ### About Me
-Hello, I'm Robel Tekeste Fekadu, a dynamic professional with dual expertise as a Project Engineer and Data Scientist, based in Stockholm. My journey has led me through the multifaceted worlds of engineering and data science, where I've honed my ability to not only manage and coordinate complex projects but also to extract actionable insights from data to inform decision-making and optimize processes. My career is a testament to my versatility, driven by a passion for tackling challenges through innovative solutions and a relentless pursuit of excellence.
+👨‍💻 Embracing dual roles as a Project Engineer and Data Scientist in Stockholm, merging the structural with the statistical.
+🌱 Cultivating a realm where complex project orchestration meets the sharp analysis of data.
+💖 Committed to enhancing decision-making and efficiency through insightful data exploration.
+📝 Delving into data science applications within engineering, balancing the concrete and the abstract.
+🛠 Crafting solutions since my early professional days, applying a blend of engineering principles and data-driven insights.
+🏠 Settling in Stockholm, ready for collaborative innovation or a chat about the synergy of engineering and data.
+
 
 ### Technologies and Tools I Use:
 <img src="https://github.com/roxeliner/roxeliner/assets/125399589/20475485-9470-4c2f-b504-76e7ee8d1796" height="50" >
@@ -14,12 +23,6 @@ Hello, I'm Robel Tekeste Fekadu, a dynamic professional with dual expertise as a
 <img src="https://github.com/roxeliner/roxeliner/assets/125399589/0225508d-ad78-492d-9cbf-8a5cd55851f0" height="50" >
 <img src="https://github.com/roxeliner/roxeliner/assets/125399589/14fefe48-a008-423c-ac44-b4134fa53533" height="50" >
 
-
-
-### Experience Highlights
-- **Project Engineer / Junior Data Analyst at Gülermak Sweden**: Spearheaded the preparation and maintenance of project baseline programs, coordinated with subcontractors, and implemented automation scripts to streamline design document preparation.
-- **Data Scientist at Turing College**: Led pivotal projects in credit default risk prediction, automated loan decision processes, and predictive analytics in healthcare, showcasing my commitment to leveraging data for enhanced decision-making.
-- **Research and Engineering Roles**: Engaged in research and practical applications of visual analysis for structural integrity assessments and optimization of value chain initiatives, contributing to advancements in civil engineering and operational efficiency.
 
 ### Contact Me
 - 📧 Gmail: Click [here](mailto:robeliner@gmail.com) to send me an email.
