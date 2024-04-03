@@ -10,6 +10,9 @@ Hello, I'm Robel Tekeste Fekadu, a dynamic professional with dual expertise as a
 <img src="https://github.com/roxeliner/roxeliner/assets/125399589/a46fd659-32bb-402e-8b75-82aafc530dfb" height="100" >
 <img src="https://github.com/roxeliner/roxeliner/assets/125399589/8e81ba77-866e-4123-a44f-70ca2525813f" height="100" >
 <img src="https://github.com/roxeliner/roxeliner/assets/125399589/0225508d-ad78-492d-9cbf-8a5cd55851f0" height="100" >
+<img src="https://github.com/roxeliner/roxeliner/assets/125399589/14fefe48-a008-423c-ac44-b4134fa53533" height="100" >
+<img src="https://github.com/roxeliner/roxeliner/assets/125399589/5e564f34-de55-4ff1-894d-e26d2b93c65e" height="100" >
+<img src="https://github.com/roxeliner/roxeliner/assets/125399589/0dec0c48-74cb-450e-bc60-b9f91770e4b3" height="100" >
 
 ### Experience Highlights
 - **Project Engineer / Junior Data Analyst at Gülermak Sweden**: Spearheaded the preparation and maintenance of project baseline programs, coordinated with subcontractors, and implemented automation scripts to streamline design document preparation.
